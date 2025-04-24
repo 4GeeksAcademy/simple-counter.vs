@@ -5,6 +5,7 @@ import "bootstrap";
 import '../styles/index.css';
 import SecondsCounter from './components/SecondsCounter';
 
+
 let time = 0;
 
 function counter() {
